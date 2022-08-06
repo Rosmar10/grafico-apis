@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.contenedorGeneral{
+width: 100%;
+margin-left: 19%;
+
+}
+
+.container{
+   width: 50%;
+    text-align: center;
+    margin: 5%;
+    background-color: #2A2B2A;
+    padding: 2%;
+}
+h1,
+h4,
+p{
+    color: aliceblue;
+}
+hr{
+    border-top: 1px solid #31D2F2;
+}
+.convertir{
+    background-color: slategray;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+}
+p{
+    margin: 5%;
+}
+.clp{
+   padding: 2%;
+}
+.inputMonto{
+    text-align: center;
+}
+.btn{
+    margin: 5%;
+}
+.grafica{
+    width: 50%;
+   margin-left: 5%;
+}
+.inputMonedas{
+    width: 250px;
+    height: 30px;
+}
